@@ -1,0 +1,14 @@
+/* 二级标题 ## */
+#post-content h2 {
+  font-size: 1.4rem !important; /* 可根据需要调整数值 */
+}
+
+/* 三级标题 ### */
+#post-content h3 {
+  font-size: 1.3rem !important;
+}
+
+/* 四级标题 #### */
+#post-content h4 {
+  font-size: 1.1rem !important;
+}
